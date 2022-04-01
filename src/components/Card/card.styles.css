@@ -1,0 +1,5 @@
+html * {
+  box-shadow: none !important;
+  border-radius: 0% !important;
+  overflow: visible !important;
+}
